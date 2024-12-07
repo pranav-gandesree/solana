@@ -18,7 +18,7 @@ pub mod votingdapp {
       poll.description = description;
       poll.poll_start = poll_start;
       poll.poll_end = poll_end;
-      poll.candidate_amount =0;
+      poll.candidate_amount =0; 
 
       Ok(())
   }
